@@ -1,8 +1,8 @@
 module Closure
 
-  VERSION           = "1.1.11"
+  VERSION           = "1.1.11-java6"
 
-  COMPILER_VERSION  = "20140730"
+  COMPILER_VERSION  = "20131014"
 
   JAVA_COMMAND      = 'java'
 
